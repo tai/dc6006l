@@ -4,7 +4,7 @@
 
 [FNIRSI DC6006L](http://www.fnirsi.cn/productinfo/556155.html) is a programmable DC power supply
 that is quite compact and inexpensive. This CLI tool/library allows you to control an unit
-over an built-in USB-serial port.
+over a built-in USB-serial port.
 
 This work is based on the work by [jcheger](https://github.com/jcheger/fnirsi-dc580-protocol)
 for a similar model, DC-580. They seem to support same set of commands, but are not compatible
